@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyComposeApplication" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+
+    <style name="largeText">
+        <item name="android:textAppearance">@android:style/TextAppearance.Large.Inverse</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
